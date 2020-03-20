@@ -8,7 +8,9 @@
         }
     ],
     "autoload": {
-        "Garbetjie\\Laravel\\Auth\\PassportClient\\": "src"
+        "psr-4": {
+            "Garbetjie\\Laravel\\Auth\\PassportClient\\": "src"
+        }
     },
     "require": {
         "laravel/passport": "^8.0 || ^7.0"
