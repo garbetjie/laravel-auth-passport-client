@@ -1,0 +1,11 @@
+{
+    "name": "garbetjie/laravel-auth-passport-client",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Geoff Garbers",
+            "email": "geoff@garbers.co.za"
+        }
+    ],
+    "require": {}
+}
