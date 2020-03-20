@@ -7,5 +7,17 @@
             "email": "geoff@garbers.co.za"
         }
     ],
-    "require": {}
+    "autoload": {
+        "Garbetjie\\Laravel\\Auth\\PassportClient\\": "src"
+    },
+    "require": {
+        "laravel/passport": "^8.0 || ^7.0"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Garbetjie\\Laravel\\Auth\\PassportClient\\PassportServiceProvider"
+            ]
+        }
+    }
 }
