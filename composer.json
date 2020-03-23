@@ -1,6 +1,12 @@
 {
     "name": "garbetjie/laravel-auth-passport-client",
     "license": "MIT",
+    "keywords": [
+        "laravel",
+        "laravel-passport",
+        "laravel-auth",
+        "guard"
+    ],
     "authors": [
         {
             "name": "Geoff Garbers",
