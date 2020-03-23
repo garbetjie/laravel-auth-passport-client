@@ -1,5 +1,6 @@
 {
     "name": "garbetjie/laravel-auth-passport-client",
+    "description": "Laravel Passport guard that fetches the authenticated OAuth client like a user.",
     "license": "MIT",
     "keywords": [
         "laravel",
